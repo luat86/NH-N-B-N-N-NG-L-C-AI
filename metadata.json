@@ -1,0 +1,6 @@
+{
+  "name": "Nhân Bản Năng Lực AI - Quản Trị Xây Dựng",
+  "description": "App chat tự động giới thiệu khóa học AI ứng dụng trong quản lý xây dựng bằng @google/genai, tích hợp thu phí.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
