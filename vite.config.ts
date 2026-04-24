@@ -8,6 +8,7 @@ export default defineConfig(({mode}) => {
   const repoName = process.env.GITHUB_ACTIONS && process.env.GITHUB_REPOSITORY ? `/${process.env.GITHUB_REPOSITORY.split('/')[1]}/` : '/';
 
   return {
+    base : '/NH-N-B-N-N-NG-L-C-AI/',
     base: repoName,
     plugins: [react(), tailwindcss()],
     define: {
